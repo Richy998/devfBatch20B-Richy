@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.name_hp{
+    height: 40px;
+    position: relative;
+    top: 5%;    
+    background-color: bisque;
+}
+.card_bg{
+    height: 400px;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 0;
+    margin: 0;
+
+}
+.pokecard-cont{
+    height: 440px;
+    width: 50%;
+}
+.atacks{
+    position: relative;
+    top: 280px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    
+}
+.evolutions{
+    height: 40px;
+    width: 100%;
+    position: relative;
+    top: -50px;
+        font-size: 1.5rem;
+}
+.card{
+    height: 380px;
+}
+#CD{
+    height: 600px;
+    overflow: scroll;
+}
+.mib{
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    position:relative;
+    top: 55px;
+    left: 250px;
+    z-index: 2;
+    font-size: 1.4rem;
+    background-color: cornflowerblue;
+}
+.mibs{
+ 
+    top: 40px;
+
+}
+.mi{
+    height: 60px;
+    width: 100%;
+    top: 110px;
+    z-index: 2;
+    position: relative;
+    background-color: black;
+    
+}
+.mil{
+    height: 60px;
+    width: 100%;    
+    top: -430px;
+
+    z-index: 2;
+    position: relative;
+}
